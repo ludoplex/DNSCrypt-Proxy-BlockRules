@@ -47,9 +47,6 @@ indexww.*
 *.lfeeder.*
 *.agkn.com
 *.rubiconproject.*
-clouderrorreporting.googleapis.com
-doubleclick.net
-*.doubleclick.net
 velocecdn.com
 superblackfriday.deals
 ufpcdn.com
