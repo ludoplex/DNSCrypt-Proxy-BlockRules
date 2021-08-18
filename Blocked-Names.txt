@@ -1,0 +1,76 @@
+# Name Block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
+# Contains default rules and some custom sets for ad and malicious servers.
+#
+# Local set of patterns to block
+#
+ad.*
+ads.*
+adpushup.*
+adservice.*
+adsrvr.*
+adnxs.*
+advertising.*
+smartadserver.*
+banner.*
+banners.*
+creatives.*
+oas.*
+oascentral.*
+tag.*
+telemetry.*
+tracker.*
+indexww.*
+#
+# My Macbook constantly sends a lot of useless queries to *.local,
+# so I block them. *.lan is apparently another common one, and
+# *.localdomain and *.workgroup are common on Windows.
+#
+*.lan
+*.local
+*.localdomain
+*.workgroup
+*.domain
+domain.*
+#
+# Blocked
+#
+# Police domain accessing facebook profiles. The domain is p.facebook.com for all the world.
+p.facebook.*
+*.p.facebook.*
+p.instagram.* 
+*.p.instagram.*
+*.dns0.*
+dns0.*
+*.report
+*.hs-banner.*
+*.hs-scripts.*
+*.lfeeder.*
+*.agkn.com
+*.rubiconproject.*
+clouderrorreporting.googleapis.com
+doubleclick.net
+*.doubleclick.net
+velocecdn.com
+superblackfriday.deals
+ufpcdn.com
+onclickalgo.com
+akutapro.com
+gml-grp.com
+superfastcdn.com
+onclickperformance.com
+onclickgenius.com
+ahbdsply.com
+*.demdex.net
+*.outbrainimg.com
+*.typekit.*
+*.quantserve.*
+*.taboola.*
+*.crwdcntrl.*
+*.consensu.*
+*.futurecdn.*
+futurecdn.*
+*.cpx.to
+*.crackberry.com
+*.futurehybrid.tech
+*.btloader.com
+*.casalemedia.com
