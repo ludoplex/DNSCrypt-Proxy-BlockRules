@@ -1,4 +1,4 @@
-# Name Block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
+# Name block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
 # Contains default rules and some custom sets for ad and malicious servers.
 #
 # Local set of patterns to block
@@ -19,7 +19,6 @@ oascentral.*
 tag.*
 telemetry.*
 tracker.*
-indexww.*
 #
 # My Macbook constantly sends a lot of useless queries to *.local,
 # so I block them. *.lan is apparently another common one, and
@@ -41,6 +40,7 @@ p.instagram.*
 *.p.instagram.*
 *.dns0.*
 dns0.*
+indexww.*
 *.report
 *.hs-banner.*
 *.hs-scripts.*
