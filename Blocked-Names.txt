@@ -39,9 +39,19 @@ lh4.googleusercontent.com
 *googleads*
 *suggestqueries*
 #
+# Other
+#
+*trackjs.com
+*onclickalgo.com
+*onclickperformance.com
+*onclickgenius.com
+*sail-personalize.com
+*trackonomics.net
+*velocecdn.com
+*superfastcdn.com
+#
 # Blocked
 #
-# Police domain accessing facebook profiles. The domain is p.facebook.com for all the world.
 p.facebook.*
 *p.facebook*
 p.instagram.* 
@@ -58,15 +68,10 @@ dns0.*
 *.dns0.*
 *.report
 *.agkn.com
-velocecdn.com
 superblackfriday.deals
 ufpcdn.com
-*onclickalgo.com
-*onclickperformance.com
-*onclickgenius.com
 akutapro.com
 gml-grp.com
-superfastcdn.com
 ahbdsply.com
 *.demdex.net
 *.outbrainimg.com
@@ -89,8 +94,6 @@ go.linkwi.se
 sync.bfmio.com
 getpublica.com
 aufp.io
-sail-personalize.com
-trackonomics.net
 sail-horizon.com
 zqtk.net
 s0.2mdn.net
@@ -98,4 +101,3 @@ s0.2mdn.net
 6pm.com
 ring.com
 blinkforhome.com
-*trackjs.com
