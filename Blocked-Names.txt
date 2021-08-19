@@ -37,6 +37,7 @@ domain.*
 #
 lh4.googleusercontent.com
 *googleads*
+*suggestqueries*
 #
 # Blocked
 #
@@ -93,7 +94,6 @@ trackonomics.net
 sail-horizon.com
 zqtk.net
 s0.2mdn.net
-*suggestqueries*
 *nsatc.net
 6pm.com
 ring.com
