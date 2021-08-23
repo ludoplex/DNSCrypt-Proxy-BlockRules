@@ -61,6 +61,8 @@ pagead2*
 *ojrq.net
 *ackcdn.net
 *agkn.com
+*switchadhub.com
+*amazon-adsystem.com
 #
 # Blocked
 #
