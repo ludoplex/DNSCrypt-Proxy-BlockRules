@@ -36,8 +36,11 @@ domain.*
 # Google
 #
 lh4.googleusercontent.com
+lh3.googleusercontent.com
+*googlesyndication.com
 *googleads*
 *suggestqueries*
+pagead2*
 #
 # Other
 #
@@ -49,6 +52,7 @@ lh4.googleusercontent.com
 *trackonomics.net
 *velocecdn.com
 *superfastcdn.com
+*sail-horizon.com
 #
 # Blocked
 #
@@ -63,9 +67,10 @@ indexww*
 *lfeeder*
 *rubiconproject*
 *footprintdns.com
+*footprintdns.net
+*footprint.net
 *typekit*
-dns0.*
-*.dns0.*
+*dns0*
 *.report
 *.agkn.com
 superblackfriday.deals
@@ -87,17 +92,18 @@ ahbdsply.com
 *.casalemedia.com
 ohkdsplu.com
 ojrq.net
-*.owneriq.net
+*ackcdn.net
+*owneriq.net
 o.ss2.us
 asrv.dalecta.com
 go.linkwi.se
 sync.bfmio.com
 getpublica.com
 aufp.io
-sail-horizon.com
 zqtk.net
 s0.2mdn.net
-*nsatc.net
 6pm.com
 ring.com
 blinkforhome.com
+*trafficfactory.biz
+*realsrv.com
