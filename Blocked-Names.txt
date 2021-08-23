@@ -49,11 +49,18 @@ pagead2*
 *onclickalgo.com
 *onclickperformance.com
 *onclickgenius.com
+*linkonclick.com
 *sail-personalize.com
 *trackonomics.net
 *velocecdn.com
 *superfastcdn.com
 *sail-horizon.com
+*ufpcdn.com
+*akutapro.com
+*ohrdsplu.com
+*ohkdsplu.com
+*ojrq.net
+*ackcdn.net
 #
 # Blocked
 #
@@ -75,11 +82,9 @@ indexww*
 *.report
 *.agkn.com
 superblackfriday.deals
-*ufpcdn.com
-*akutapro.com
-*ohrdsplu.com
 *gml-grp.com
 *ahbdsply.com
+*addthis.com
 *.demdex.net
 *.outbrainimg.com
 *.quantserve.*
@@ -92,9 +97,6 @@ superblackfriday.deals
 *.futurehybrid.tech
 *.btloader.com
 *.casalemedia.com
-ohkdsplu.com
-ojrq.net
-*ackcdn.net
 *owneriq.net
 o.ss2.us
 asrv.dalecta.com
