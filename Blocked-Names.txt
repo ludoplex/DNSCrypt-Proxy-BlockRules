@@ -4,7 +4,6 @@
 # Local set of patterns to block
 #
 ad.*
-#ads.*
 *ads.*
 *adpushup.*
 *adservice.*
@@ -61,6 +60,7 @@ pagead2*
 *ohkdsplu.com
 *ojrq.net
 *ackcdn.net
+*agkn.com
 #
 # Blocked
 #
@@ -68,8 +68,8 @@ p.facebook.*
 *p.facebook*
 p.instagram.* 
 *p.instagram*
-stack-sonar
-indexww*
+*stack-sonar*
+*indexww*
 *hs-banner*
 *hs-scripts*
 *lfeeder*
@@ -80,7 +80,6 @@ indexww*
 *typekit*
 *dns0*
 *.report
-*.agkn.com
 superblackfriday.deals
 *gml-grp.com
 *ahbdsply.com
