@@ -4,14 +4,15 @@
 # Local set of patterns to block
 #
 ad.*
-ads.*
+#ads.*
 *ads.*
-adpushup.*
-adservice.*
-adsrvr.*
-adnxs.*
-advertising.*
-smartadserver.*
+*adpushup.*
+*adservice.*
+*adsrvr.*
+*adnxs.*
+*ads-api*
+*advertising.*
+*smartadserver.*
 banner.*
 banners.*
 creatives.*
@@ -30,7 +31,7 @@ tracker.*
 *.localdomain
 *.workgroup
 *.domain
-domain.*
+*domain.*
 *.station
 #
 # Google
@@ -74,10 +75,11 @@ indexww*
 *.report
 *.agkn.com
 superblackfriday.deals
-ufpcdn.com
-akutapro.com
-gml-grp.com
-ahbdsply.com
+*ufpcdn.com
+*akutapro.com
+*ohrdsplu.com
+*gml-grp.com
+*ahbdsply.com
 *.demdex.net
 *.outbrainimg.com
 *.quantserve.*
