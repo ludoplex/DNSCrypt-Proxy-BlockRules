@@ -4,7 +4,7 @@
 # Local set of patterns to block
 #
 ad.*
-*ads.*
+ads.*
 *adpushup.*
 *adservice.*
 *adsrvr.*
