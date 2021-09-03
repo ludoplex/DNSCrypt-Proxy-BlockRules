@@ -64,6 +64,7 @@ pagead2*
 *agkn.com
 *switchadhub.com
 *amazon-adsystem.com
+*adskeeper.com
 #
 # Blocked
 #
@@ -78,8 +79,8 @@ p.instagram.*
 *lfeeder*
 *rubiconproject*
 *footprintdns*
-*typekit*
 *dns0*
+*typekit*
 *.report
 superblackfriday.deals
 *gml-grp.com
@@ -111,3 +112,4 @@ ring.com
 blinkforhome.com
 *trafficfactory.biz
 *realsrv.com
+*shiftintercoursebridge.com
