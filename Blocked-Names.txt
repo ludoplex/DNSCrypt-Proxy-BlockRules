@@ -12,6 +12,7 @@ ads.*
 *ads-api*
 *advertising.*
 *smartadserver.*
+*analytics.*
 banner.*
 banners.*
 creatives.*
@@ -76,9 +77,7 @@ p.instagram.*
 *hs-scripts*
 *lfeeder*
 *rubiconproject*
-*footprintdns.com
-*footprintdns.net
-*footprint.net
+*footprintdns*
 *typekit*
 *dns0*
 *.report
