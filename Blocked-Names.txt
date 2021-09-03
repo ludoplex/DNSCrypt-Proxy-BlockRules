@@ -59,12 +59,16 @@ pagead2*
 *akutapro.com
 *ohrdsplu.com
 *ohkdsplu.com
+*ahbdsply.com
+*addthis.com
+*jads.co
 *ojrq.net
 *ackcdn.net
 *agkn.com
 *switchadhub.com
 *amazon-adsystem.com
 *adskeeper.com
+*juicyads.com
 #
 # Blocked
 #
@@ -84,8 +88,6 @@ p.instagram.*
 *.report
 superblackfriday.deals
 *gml-grp.com
-*ahbdsply.com
-*addthis.com
 *.demdex.net
 *.outbrainimg.com
 *.quantserve.*
@@ -113,3 +115,17 @@ blinkforhome.com
 *trafficfactory.biz
 *realsrv.com
 *shiftintercoursebridge.com
+*exceedinglydiscovered.com
+fattykettleinexpedient.com
+bewailbeforelibrarian.com
+clevermillercooperation.com
+understandablerequirechoke.com
+looksthrilled.com
+residebroadly.com
+unwiseoccasionalinscribe.com
+povipic.club
+dyncdn.cc
+barbedpotions.com
+regulationprivilegescan.top
+*payingnoodlescam.com
+scrubheiress.com
