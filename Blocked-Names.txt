@@ -73,9 +73,7 @@ securepubads*
 #
 # Blocked
 #
-p.facebook.*
 *p.facebook*
-p.instagram.* 
 *p.instagram*
 *stack-sonar*
 *indexww*
@@ -141,3 +139,23 @@ gbgabq.com
 trmobc.com
 onlineuserprotector.com
 ocdnmq.com
+jsdelivr.net
+polyfill.io
+plyr.io
+betotodilea.com
+lalaping.com
+toglooman.com
+betgorebysson.club
+wowreality.info
+kogutcho.net
+rtmark.net
+dexpredict.com
+hanner-blobal.com
+vg35.xyz
+overnumeler.com
+e2ertt.com
+wg-aff.com
+reedsbullyingpastel.com
+proinder.com
+ortrun-adi.com
+allowsuccess.org
