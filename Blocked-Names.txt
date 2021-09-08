@@ -1,5 +1,5 @@
 # Name Block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
-# Contains default rules and some custom sets for ads and malicious servers.
+# Contains default rules and some custom sets for ad and malicious servers.
 #
 # Local set of patterns to block
 #
