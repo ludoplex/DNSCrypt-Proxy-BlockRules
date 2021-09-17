@@ -36,8 +36,6 @@ tracker.*
 #
 # Google
 #
-lh4.googleusercontent.com
-lh3.googleusercontent.com
 *googlesyndication.com
 google-analytics.com
 googleanalytics.com
@@ -88,6 +86,11 @@ securepubads*
 *footprintdns*
 footprintpredict.com
 *dns0*
+client-login.ch
+covid19-ca.link
+festive-poitras-32a801.netlify.app
+glogln.com
+s.loris.llnwd.net
 *typekit*
 *.report
 superblackfriday.deals
@@ -178,6 +181,8 @@ investing-partner.com
 pushflow.net
 perpetratoronpour.com
 123chainjhiklo.xyz
+clickcease.com
+rhxdsplm.com
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
 #
