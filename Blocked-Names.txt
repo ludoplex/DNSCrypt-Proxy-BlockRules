@@ -213,6 +213,12 @@ reminews.com
 selornews.com
 yadro.ru
 thanosofcos5.com
+optimizesrv.com
+affcpatrk.com
+stackpathdns.com
+edoumeph.com
+islandmob.com
+agacelebir.com
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
 #
