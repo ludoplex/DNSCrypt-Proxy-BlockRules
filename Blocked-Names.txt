@@ -1,5 +1,5 @@
 # Name Block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
-# Contains default rules, some custom sets for ad and malicious servers and some dumps from other servers.
+# Contains default rules and some custom sets for ad and malicious servers.
 #
 # Local set of patterns to block
 #
@@ -188,6 +188,8 @@ taoput.com
 mosece.com
 afternic.com
 live.primis.tech
+knoure.com
+pubwes.com
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
 #
