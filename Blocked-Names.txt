@@ -72,6 +72,7 @@ pagead2*
 *adskeeper.com
 *juicyads.com
 securepubads*
+inpage-push.com
 #
 # Blocked
 #
@@ -190,6 +191,27 @@ afternic.com
 live.primis.tech
 knoure.com
 pubwes.com
+onmarshtompor.com
+glugreez.com
+ptauxofi.net
+upgulpinon.com
+forflygonom.com
+denetsuk.com
+auchoons.net
+jomtingi.net
+knoure.com
+chaussew.net
+uloadcdn.com
+sciencedaily.news
+thanksgivingwittyfrisk.com
+atbakchahiyanow.blogspot.com
+civadsoo.net
+0x01n2ptpuz3.com
+privilegesurround.com
+shopusuallyvirtue.com
+reminews.com
+selornews.com
+yadro.ru
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
 #
