@@ -37,7 +37,7 @@ tracker.*
 # Google
 #
 *googlesyndication.com
-google-analytics.com
+#google-analytics.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
@@ -89,6 +89,8 @@ jsdelivr.net
 *dns0*
 belcy.com
 cybelangel.com
+rtbsuperhub.com
+offerdaba.com
 *hs-banner*
 *hs-scripts*
 *lfeeder*
