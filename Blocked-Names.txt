@@ -37,7 +37,7 @@ tracker.*
 # Google
 #
 *googlesyndication.com
-#google-analytics.com
+google-analytics.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
