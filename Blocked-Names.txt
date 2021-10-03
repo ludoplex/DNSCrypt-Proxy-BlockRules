@@ -83,7 +83,6 @@ jsdelivr.net
 *p.instagram*
 *stack-sonar*
 *indexww*
-*typekit*
 *rubiconproject*
 *realsrv.com
 *dns0*
