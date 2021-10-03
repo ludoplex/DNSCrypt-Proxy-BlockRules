@@ -180,7 +180,6 @@ ihogaetw.com
 ads234.com
 ads345.com
 clickspring.net
-zombie.news
 0dax.com
 antig-hra.com
 rtpdn14.com
@@ -257,6 +256,11 @@ ezodn.com
 5unt.cyou
 b04l.cyou
 i5u9f3t5.stackpathcdn.com
+update.microsofthk.com
+update.microsoftkernel.com
+amazon.hksupd.com
+0373399.com
+zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
 #
