@@ -37,7 +37,7 @@ tracker.*
 # Google
 #
 *googlesyndication.com
-#google-analytics.com
+google-analytics.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
@@ -83,7 +83,6 @@ jsdelivr.net
 *p.instagram*
 *stack-sonar*
 *indexww*
-*typekit*
 *rubiconproject*
 *realsrv.com
 *dns0*
