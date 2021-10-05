@@ -37,7 +37,7 @@ tracker.*
 # Google
 #
 *googlesyndication.com
-google-analytics.com
+#google-analytics.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
@@ -83,6 +83,7 @@ jsdelivr.net
 *p.instagram*
 *stack-sonar*
 *indexww*
+*typekit*
 *rubiconproject*
 *realsrv.com
 *dns0*
@@ -259,6 +260,10 @@ update.microsofthk.com
 update.microsoftkernel.com
 amazon.hksupd.com
 0373399.com
+yeribi.com
+dediom.com
+blkditsup.com
+vxnitsup.com
 zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
