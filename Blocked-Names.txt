@@ -78,8 +78,9 @@ jsdelivr.net
 #
 # Blocked
 #
-*p.facebook*
-*p.instagram*
+# Police Facebook
+p.facebook.com
+p.instagra.com
 *stack-sonar*
 *indexww*
 *rubiconproject*
