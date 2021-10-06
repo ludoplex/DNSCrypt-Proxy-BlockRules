@@ -80,7 +80,7 @@ jsdelivr.net
 #
 # Police Facebook
 p.facebook.com
-p.instagra.com
+p.instagram.com
 *stack-sonar*
 *indexww*
 *rubiconproject*
