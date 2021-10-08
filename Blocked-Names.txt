@@ -79,8 +79,8 @@ jsdelivr.net
 #
 # Blocked
 #
-*p.facebook.com
-*p.instagram.com
+*p.facebook*
+*p.instagram*
 *stack-sonar*
 *indexww*
 *rubiconproject*
@@ -272,6 +272,11 @@ soonen.com
 besoes.com
 quantumadblocker.com
 mignished-sility.com
+cbzdjxe.cn
+whatsapphelp.xyz
+advideo.xyz
+gdrd88.rest
+hslzkj.rest
 zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
