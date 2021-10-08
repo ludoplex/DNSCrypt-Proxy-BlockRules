@@ -83,7 +83,6 @@ jsdelivr.net
 *p.instagram.com
 *stack-sonar*
 *indexww*
-*typekit*
 *rubiconproject*
 *realsrv.com
 *dns0*
@@ -269,6 +268,10 @@ cdnquality.com
 latuga.com
 getsmartyapp.com
 gituhub.com
+soonen.com
+besoes.com
+quantumadblocker.com
+mignished-sility.com
 zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
