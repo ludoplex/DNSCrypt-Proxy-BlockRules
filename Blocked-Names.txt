@@ -37,6 +37,7 @@ tracker.*
 # Google
 #
 *googlesyndication.com
+google-analytics.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
@@ -78,11 +79,11 @@ jsdelivr.net
 #
 # Blocked
 #
-# Police Facebook
-p.facebook.com
-p.instagram.com
+*p.facebook.com
+*p.instagram.com
 *stack-sonar*
 *indexww*
+*typekit*
 *rubiconproject*
 *realsrv.com
 *dns0*
@@ -263,6 +264,11 @@ yeribi.com
 dediom.com
 blkditsup.com
 vxnitsup.com
+ms-tech.*
+cdnquality.com
+latuga.com
+getsmartyapp.com
+gituhub.com
 zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
