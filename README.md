@@ -1,9 +1,9 @@
-# DNSCrypt-Proxy-BlockRules
-My Custom Set Of Block Rules for DNSCrypt-Proxy
+# My Custom Set Of Block Rules for DNSCrypt-Proxy
 
+This REPO contains a custom set of blocked Name and IP rules for ads, malware, phising, hacking and more.
 
-This REPO contains a custom set of blocked Name and IP rules of ads, malware, phising, hacking and more for DnsCrypt-Proxy.
+This rules will greatly fit on the DNSCrypt-Proxy program.
 
-Some rules are gathered by me, others i gather from researchers and ad blocking hosts.
+All rules here are gathered by me. Some i take from researchers others from ad blocking hosts and ussually under the #Custom section is the ones i add on my own.
 
 Note that the list down here is updating constantly.
