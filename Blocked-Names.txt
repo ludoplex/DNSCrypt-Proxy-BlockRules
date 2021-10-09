@@ -31,7 +31,7 @@ tracker.*
 *.localdomain
 *.workgroup
 *.domain
-*domain.*
+domain.*
 *.station
 #
 # Google
@@ -319,6 +319,14 @@ beludicolor.com
 cagothie.net
 goingtocontent.com
 synthesissocietysplitting.com
+dzienkudrow.com
+baubogla.com
+aimairou.net
+colonistnobilityheroic.com
+callelundotre.xyz
+appspot.com
+freychang.fun
+inkornesto.com
 zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
