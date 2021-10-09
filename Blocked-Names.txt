@@ -281,6 +281,8 @@ ksharu.com
 celeritascdn.com
 start.xyz
 adnpopupblocker.com
+bclheggx.com
+albraixentor.com
 zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
