@@ -31,7 +31,6 @@ tracker.*
 *.localdomain
 *.workgroup
 *.domain
-domain.*
 *.station
 #
 # Google
@@ -324,9 +323,18 @@ baubogla.com
 aimairou.net
 colonistnobilityheroic.com
 callelundotre.xyz
-appspot.com
 freychang.fun
 inkornesto.com
+luckywinner-web1.com
+unpkg.com
+cfeucdn.com
+your-notice.com
+disqus.com
+cfeucdn.com
+facilitategovernor.com
+uprotectiehone.xyz
+hqq.to
+hetapus.com
 zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
