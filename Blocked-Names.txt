@@ -361,6 +361,8 @@ librariessunflower.com
 barscreative1.com
 grilledjut.com
 softlygaiety.com
+trafficjunky.com
+adktrack.com
 zombie.news
 #
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
