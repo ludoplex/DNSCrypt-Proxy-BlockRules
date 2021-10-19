@@ -221,7 +221,6 @@ stackpathdns.com
 edoumeph.com
 islandmob.com
 agacelebir.com
-stackexchange.com
 jaubeebe.net
 pumpkinneighbourpoet.com
 worersie.com
@@ -373,10 +372,14 @@ fghjngjkjgy.ga
 team1-usercoinbasecryptoexperience.duckdns.org
 bit-hapoalim.netlify.app
 townzkyd.ru
+anguishlonesome.com
+chrigm.com
+idiarb.com
+appspot.com
 zombie.news
-#
+# .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
-#
+# .i.
 101com.com
 101order.com
 123freeavatars.com
