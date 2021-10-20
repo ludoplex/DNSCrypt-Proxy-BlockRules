@@ -221,6 +221,7 @@ stackpathdns.com
 edoumeph.com
 islandmob.com
 agacelebir.com
+#stackexchange.com
 jaubeebe.net
 pumpkinneighbourpoet.com
 worersie.com
@@ -376,6 +377,14 @@ anguishlonesome.com
 chrigm.com
 idiarb.com
 appspot.com
+mp3zik.net
+premiumvertising.com
+eotlqwxohyhu.com
+wbbmubevftcy.com
+peirs5tbakchios.com
+josephstudios.net
+effectivecpmgate.com
+clickfunnels.com
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
