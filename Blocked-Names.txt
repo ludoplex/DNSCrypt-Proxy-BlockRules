@@ -330,7 +330,6 @@ unpkg.com
 cfeucdn.com
 your-notice.com
 disqus.com
-cfeucdn.com
 facilitategovernor.com
 uprotectiehone.xyz
 hqq.to
@@ -399,6 +398,15 @@ my-divar.xyz
 du-shaparak.tk
 instagramdiwali.netlify.app
 donald-grigg.site
+kontadequality.xyz
+icotrack.net
+fadverdirect.com
+animekisa.to
+salync.com
+peitet.com
+econdalgam.xyz
+withinkcallel.xyz
+microusconvilla.xyz
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
