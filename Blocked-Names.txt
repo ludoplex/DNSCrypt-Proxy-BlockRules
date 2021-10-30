@@ -1,3 +1,4 @@
+slidesharecdn.com
 # Name Block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
 # Contains default rules and some custom sets for ad and malicious servers.
 #
@@ -463,6 +464,11 @@ adhied.com
 opentrend.club
 hottracker.biz
 trkbc.com
+gituhb.com
+host-bot.xyz
+defeature.xyz
+viiocw.com
+virlyrelatione.xyz
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
