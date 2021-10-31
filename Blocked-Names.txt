@@ -1,4 +1,3 @@
-slidesharecdn.com
 # Name Block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
 # Contains default rules and some custom sets for ad and malicious servers.
 #
@@ -33,6 +32,10 @@ tracker.*
 *.workgroup
 *.domain
 *.station
+#
+# Telemetry
+#
+incoming.telemetry.mozilla.org
 #
 # Google
 #
@@ -79,6 +82,7 @@ jsdelivr.net
 #
 # Blocked
 #
+#stackexchange.com
 *p.facebook*
 *p.instagram*
 *stack-sonar*
@@ -193,6 +197,7 @@ taoput.com
 mosece.com
 afternic.com
 live.primis.tech
+slidesharecdn.com
 knoure.com
 pubwes.com
 onmarshtompor.com
@@ -222,7 +227,6 @@ stackpathdns.com
 edoumeph.com
 islandmob.com
 agacelebir.com
-#stackexchange.com
 jaubeebe.net
 pumpkinneighbourpoet.com
 worersie.com
@@ -469,6 +473,9 @@ host-bot.xyz
 defeature.xyz
 viiocw.com
 virlyrelatione.xyz
+volarf.com
+nimpio.com
+rhearthinkchlo.xyz
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
@@ -2526,7 +2533,6 @@ imrworldwide.com
 incentaclick.com
 inclk.com
 incognitosearches.com
-incoming.telemetry.mozilla.org
 indexexchange.com
 indexstats.com
 indexww.com
