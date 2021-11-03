@@ -1,3 +1,4 @@
+slidesharecdn.com
 # Name Block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
 # Contains default rules and some custom sets for ad and malicious servers.
 #
@@ -197,7 +198,6 @@ taoput.com
 mosece.com
 afternic.com
 live.primis.tech
-slidesharecdn.com
 knoure.com
 pubwes.com
 onmarshtompor.com
@@ -476,6 +476,15 @@ virlyrelatione.xyz
 volarf.com
 nimpio.com
 rhearthinkchlo.xyz
+vlitag.com
+topclickpick.com
+cevementalc.xyz
+lifrim.com
+jigred.com
+rategeisteryc.xyz
+areasedwriteratic.xyz
+ationuctladd.xyz
+adumquantical.xyz
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
