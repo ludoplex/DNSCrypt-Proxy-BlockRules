@@ -40,9 +40,9 @@ incoming.telemetry.mozilla.org
 # Google
 #
 *googlesyndication.com
-#google-analytics.com
-#googleanalytics.com
-#googletagmanager.com
+google-analytics.com
+googleanalytics.com
+googletagmanager.com
 googletagservices.com
 *googleads*
 *suggestqueries*
