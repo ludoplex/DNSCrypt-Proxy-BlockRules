@@ -1,4 +1,3 @@
-slidesharecdn.com
 # Name Block list for DNSCrypt-Proxy from: https://github.com/ACEx86/DNSCrypt-Proxy-BlockRules
 # Contains default rules and some custom sets for ad and malicious servers.
 #
@@ -41,9 +40,9 @@ incoming.telemetry.mozilla.org
 # Google
 #
 *googlesyndication.com
-google-analytics.com
-googleanalytics.com
-googletagmanager.com
+#google-analytics.com
+#googleanalytics.com
+#googletagmanager.com
 googletagservices.com
 *googleads*
 *suggestqueries*
@@ -485,6 +484,11 @@ rategeisteryc.xyz
 areasedwriteratic.xyz
 ationuctladd.xyz
 adumquantical.xyz
+portdoutside.xyz
+prtimes.jp
+crorop.com
+poenem.com
+miliatedvictions.xyz
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
