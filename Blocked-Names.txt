@@ -50,6 +50,7 @@ pagead2*
 #
 # Other
 #
+msads.net
 *trackjs.com
 *onclickalgo.com
 *onclickperformance.com
@@ -490,6 +491,10 @@ poenem.com
 miliatedvictions.xyz
 ohston.com
 nepiam.com
+brutelogic.com.br
+something.host
+engageya.com
+vntsm.com
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
@@ -2552,7 +2557,6 @@ imrworldwide.com
 incentaclick.com
 inclk.com
 incognitosearches.com
-incoming.telemetry.mozilla.org
 indexexchange.com
 indexstats.com
 indexww.com
