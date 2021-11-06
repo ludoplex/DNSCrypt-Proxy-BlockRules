@@ -83,7 +83,7 @@ jsdelivr.net
 #
 # Blocked
 #
-#stackexchange.com
+stackexchange.com
 *p.facebook*
 *p.instagram*
 *stack-sonar*
@@ -495,6 +495,11 @@ brutelogic.com.br
 something.host
 engageya.com
 vntsm.com
+adpmbtj.com
+vfthr.com
+vfgte.com
+strpst.com
+dzhjmp.com
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
