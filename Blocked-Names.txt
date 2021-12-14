@@ -35,7 +35,7 @@ tracker.*
 #
 # Telemetry
 #
-incoming.telemetry.mozilla.org
+#incoming.telemetry.mozilla.org
 #
 # Google
 #
@@ -48,9 +48,16 @@ googletagservices.com
 *suggestqueries*
 pagead2*
 #
+# Ad
+#
+adengine.snigelweb.com
+adskeeper.com
+amazon-adsystem.com
+msads.net
+securepubads*
+#
 # Other
 #
-msads.net
 *trackjs.com
 *onclickalgo.com
 *onclickperformance.com
@@ -72,10 +79,6 @@ msads.net
 *ackcdn.net
 *agkn.com
 *switchadhub.com
-*amazon-adsystem.com
-*adskeeper.com
-*juicyads.com
-securepubads*
 inpage-push.com
 in-page-push.com
 inpagepush.com
@@ -83,7 +86,7 @@ jsdelivr.net
 #
 # Blocked
 #
-stackexchange.com
+p.facebook.com
 *p.facebook*
 *p.instagram*
 *stack-sonar*
@@ -159,6 +162,7 @@ trmobc.com
 onlineuserprotector.com
 ocdnmq.com
 polyfill.io
+rum18.perf.linkedin.com
 plyr.io
 betotodilea.com
 lalaping.com
@@ -501,6 +505,8 @@ strpst.com
 dzhjmp.com
 ussiagoverse.xyz
 selfishsnake.com
+hm.baidu.com
+footprintdns.com
 theregister.com
 hurriedlyvaliantperplex.com
 pickupmorbid.com
@@ -527,6 +533,12 @@ dateddeed.com
 specificallythesisballot.com
 stinkwailingbalk.com
 impresseastsolo.com
+script.4dex.io
+hb.emxdgt.com
+onetag-sys.com
+c2shb.ssp.yahoo.com
+stackexchange.com
+hexagon-analytics.com
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
