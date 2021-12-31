@@ -12,14 +12,14 @@ ads.*
 *ads-api*
 *advertising.*
 *smartadserver.*
-#*analytics.*
+*analytics.*
 banner.*
 banners.*
 creatives.*
 oas.*
 oascentral.*
 tag.*
-#telemetry.*
+telemetry.*
 tracker.*
 #
 # My Macbook constantly sends a lot of useless queries to *.local,
@@ -35,7 +35,7 @@ tracker.*
 #
 # Telemetry
 #
-#incoming.telemetry.mozilla.org
+incoming.telemetry.mozilla.org
 #
 # Google
 #
@@ -56,6 +56,7 @@ adskeeper.com
 amazon-adsystem.com
 msads.net
 securepubads*
+*rubiconproject*
 #
 # Other
 #
@@ -92,7 +93,6 @@ p.facebook.com
 *p.instagram*
 *stack-sonar*
 *indexww*
-*rubiconproject*
 *realsrv.com
 *dns0*
 belcy.com
