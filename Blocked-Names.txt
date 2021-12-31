@@ -12,14 +12,14 @@ ads.*
 *ads-api*
 *advertising.*
 *smartadserver.*
-*analytics.*
+#*analytics.*
 banner.*
 banners.*
 creatives.*
 oas.*
 oascentral.*
 tag.*
-telemetry.*
+#telemetry.*
 tracker.*
 #
 # My Macbook constantly sends a lot of useless queries to *.local,
@@ -35,7 +35,7 @@ tracker.*
 #
 # Telemetry
 #
-incoming.telemetry.mozilla.org
+#incoming.telemetry.mozilla.org
 #
 # Google
 #
@@ -45,11 +45,12 @@ googleanalytics.com
 googletagmanager.com
 googletagservices.com
 *googleads*
-*suggestqueries*
+#*suggestqueries*
 pagead2*
 #
 # Ad
 #
+api-ads.percycle.com
 adengine.snigelweb.com
 adskeeper.com
 amazon-adsystem.com
@@ -344,7 +345,7 @@ ulourgaz.net
 hurirk.net
 aculdi.com
 comorw.com
-cdncache.xyz
+#cdncache.xyz
 odpdpzlvgufq.com
 tobaltoyon.com
 embed.ly
@@ -537,7 +538,6 @@ script.4dex.io
 hb.emxdgt.com
 onetag-sys.com
 c2shb.ssp.yahoo.com
-stackexchange.com
 hexagon-analytics.com
 hetaruvg.com
 hetaint.com
@@ -546,6 +546,9 @@ offfurreton.com
 itphanpytor.club
 tagcachestaticx.com
 tagcachedataxrt.com
+itchytidying.com
+miek.nl
+nicoug.com
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
@@ -2618,7 +2621,6 @@ imrworldwide.com
 incentaclick.com
 inclk.com
 incognitosearches.com
-incoming.telemetry.mozilla.org
 indexexchange.com
 indexstats.com
 indexww.com
