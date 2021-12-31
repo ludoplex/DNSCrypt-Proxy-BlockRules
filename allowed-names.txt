@@ -1,0 +1,4 @@
+# For Torrenting
+tracker.leechers-paradise.org
+tracker.opentrackr.org
+tracker.internetwarriors.net
