@@ -2,3 +2,5 @@
 tracker.leechers-paradise.org
 tracker.opentrackr.org
 tracker.internetwarriors.net
+tracker.coppersurfer.tk
+tracker.cyberia.is
