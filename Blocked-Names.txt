@@ -45,7 +45,7 @@ googleanalytics.com
 googletagmanager.com
 googletagservices.com
 *googleads*
-#*suggestqueries*
+*suggestqueries*
 pagead2*
 #
 # Ad
@@ -551,6 +551,8 @@ nicoug.com
 choices.truste.com
 do1alx.de
 srv.ygles-test.com
+kaoftrknb.com
+mmngqvbfuzenlk.com
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
