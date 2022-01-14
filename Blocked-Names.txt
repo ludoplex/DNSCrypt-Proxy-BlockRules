@@ -553,6 +553,12 @@ srv.ygles-test.com
 kaoftrknb.com
 mmngqvbfuzenlk.com
 saturnbotnet.net
+inject1byte.com
+4api.net
+duck.black
+black-crystal.net
+xiiideath.com
+carbonblackz.art
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
