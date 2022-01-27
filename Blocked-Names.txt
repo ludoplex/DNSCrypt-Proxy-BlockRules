@@ -580,6 +580,8 @@ trophy-jackpot.us
 secureeasyr.com
 2-vinstaller.com
 yourownscreensaver.com
+eztv.re
+bt50.net
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
