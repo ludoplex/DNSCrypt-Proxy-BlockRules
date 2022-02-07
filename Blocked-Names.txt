@@ -11,11 +11,11 @@ ads.*
 *adnxs.*
 *ads-api*
 *advertising.*
-*smartadserver.*
 *analytics.*
 banner.*
 banners.*
 creatives.*
+*smartadserver.*
 oas.*
 oascentral.*
 tag.*
@@ -39,12 +39,20 @@ incoming.telemetry.mozilla.org
 #
 # Google
 #
-*googlesyndication.com
+admob-cn.com
+adservices-cn.com
+bdn.dev
+dartsearch-cn.net
 google-analytics.com
+googleads.g.doubleclick.net
+googleadservices-cn.com
+*googlesyndication.com
 googleanalytics.com
 googletagmanager.com
 googletagservices.com
 *googleads*
+googlevads-cn.com
+googletraveladservices-cn.com
 *suggestqueries*
 pagead2*
 #
@@ -88,6 +96,8 @@ jsdelivr.net
 #
 # Blocked
 #
+# p.facebook.com is the Police Facebook domain and it is used by police to access and log into selected user profiles. Has the ability of viewing 'deleted' messages .. blah, blah..
+# Other domain's of interest for accesses is everything hosted on 162.* 164.* 172.* 174.* 176.* 178.*
 p.facebook.com
 *p.facebook*
 *p.instagram*
@@ -344,6 +354,7 @@ ulourgaz.net
 hurirk.net
 aculdi.com
 comorw.com
+#cdncache.xyz
 odpdpzlvgufq.com
 tobaltoyon.com
 embed.ly
@@ -580,8 +591,8 @@ trophy-jackpot.us
 secureeasyr.com
 2-vinstaller.com
 yourownscreensaver.com
-eztv.re
 bt50.net
+oridst.com
 zombie.news
 # .i.
 # Ad Servers by https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml
