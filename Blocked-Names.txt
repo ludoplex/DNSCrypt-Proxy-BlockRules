@@ -93,6 +93,7 @@ inpage-push.com
 in-page-push.com
 inpagepush.com
 jsdelivr.net
+spade.twitch.tv
 #
 # Blocked
 #
