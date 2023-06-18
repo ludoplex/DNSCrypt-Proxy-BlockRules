@@ -97,8 +97,6 @@ spade.twitch.tv
 #
 # Blocked
 #
-# p.facebook.com is the Police Facebook domain and it is used by police to access and log into selected user profiles. Has the ability of viewing 'deleted' messages .. blah, blah..
-# Other domain's of interest for accesses is everything hosted on 162.* 164.* 172.* 174.* 176.* 178.*
 p.facebook.com
 *p.facebook*
 *p.instagram*
